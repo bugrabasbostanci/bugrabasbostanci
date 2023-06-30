@@ -2,7 +2,7 @@
 
 Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçirebileceğimi fark ettim. Web geliştirme, yazılım dünyasında önemli bir yere sahip olduğu için kariyerime bu alanla başladım. Temel web teknolojileri hakkında bilgi sahibiyim. Front-End alanında kendimi geliştirmek için aktif olarak çalışıyorum. Bu alanda tecrübe kazandıktan sonra kendimi Back-End alanında da geliştirip Full-Stack Developer olmayı planlıyorum.
 
-<br /><br />
+<br />
 
 <p align="center">
 <img src="hello world.gif" />
@@ -31,7 +31,6 @@ https://github.com/robertcoopercode/animated-grid-lines -->
   </a>
 </p>
 
-<br />
 <br />
 
 <h2 align="center">🛠️ Kullandığım Araçlar 🛠️</h2>
@@ -73,9 +72,13 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 <br />
 <br />
 
-<h3 align="left">🚀 Projelerim </h3>
+## 🚀 Projelerim
 
-<a href="https://github.com/bugrabasbostanci/JavaScript-Odev02">
+[![Your To Do's](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Medium Clone](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Letterboxd Clone](https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <a href="https://github.com/bugrabasbostanci/JavaScript-Odev02">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
 </a>
 <a href="https://github.com/bugrabasbostanci/MediumClone-bootstrap">
@@ -83,7 +86,7 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 </a>
 <a href="https://github.com/deneme11122/moviebox">
 <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight" />
-</a>
+</a> -->
 
 <br />
 <br />
