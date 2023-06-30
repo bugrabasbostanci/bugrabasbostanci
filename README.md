@@ -74,9 +74,9 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 
 ## 🚀 Projelerim
 
-[![Your To Do's](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Medium Clone](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Letterboxd Clone](https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Your To Do's](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight)](https://github.com/bugrabasbostanci/JavaScript-Odev02)
+[![Medium Clone](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight)](https://github.com/bugrabasbostanci/MediumClone-bootstrap)
+[![Letterboxd Clone](https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight)](https://github.com/deneme11122/moviebox)
 
 <!-- <a href="https://github.com/bugrabasbostanci/JavaScript-Odev02">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
