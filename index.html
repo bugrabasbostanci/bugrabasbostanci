@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Random Meme</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <div id="memeContainer">
+      <img id="memeImage" src="" alt="Random Meme" />
+    </div>
+
+    <script>
+      $(document).ready(function () {
+        $.get("https://meme-api.herokuapp.com/gimme", function (data) {
+          var memeUrl = data.url;
+          $("#memeImage").attr("src", memeUrl);
+        });
+      });
+    </script>
+  </body>
+</html>
