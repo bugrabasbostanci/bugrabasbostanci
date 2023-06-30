@@ -2,14 +2,21 @@
 
 Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçirebileceğimi fark ettim. Web geliştirme, yazılım dünyasında önemli bir yere sahip olduğu için kariyerime bu alanla başladım. Temel web teknolojileri hakkında bilgi sahibiyim. Front-End alanında kendimi geliştirmek için aktif olarak çalışıyorum. Bu alanda tecrübe kazandıktan sonra kendimi Back-End alanında da geliştirip Full-Stack Developer olmayı planlıyorum.
 
+<br />
+
+
 ## Hakkımda
+
 
 - ✅ Patika'nın [Başlangıç Seviye Frontend Web Development Patikası](https://academy.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)'nı bitirdim.
 - 🌱 Şu anda [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) kursunu takip ediyorum.
-- 📚 HTML, CSS ve JavaScript kullanarak projeler geliştiriyor ve yenilikleri takip ederek kendimi geliştirmeye çalışıyorum.
+- 📚 HTML, CSS ve JavaScript kullanarak projeler geliştiriyor ve teknolojik gelişmeleri takip ederek kendimi geliştirmeye çalışıyorum.
 - 📫 Bana [email](bugrabasbostanci143@gmail.com) üzerinden ulaşabilirsiniz.
 
-## 👩🏾‍💻 Kullandığım Diller ve Frameworkler
+<br />
+<br />
+
+<h2 align="center">👩🏾‍💻 Kullandığım Diller ve Frameworkler 👩🏾‍💻</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,7 +24,10 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
   </a>
 </p>
 
-## 🛠️ Kullandığım Araçlar
+<br />
+<br />
+
+<h2 align="center">🛠️ Kullandığım Araçlar 🛠️</h2>
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -25,12 +35,17 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 [![My Skills](https://skillicons.dev/icons?i=codepen,discord,figma,git,github,md,ps,stackoverflow,vscode)](https://skillicons.dev)
 
-## 📈 Github İstatistikleri
+<br />
+<br />
+
+<h2 align="center">📈 Github İstatistikleri 📈</h2>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=bugrabasbostanci&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabasbostanci&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+<br />
+<br />
 
-### 🚀 Projelerim
+<h3 align="left">🚀 Projelerim </h3>
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
@@ -45,6 +60,17 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 <br />
 <br />
 
-## Here is a random joke 🤣
+<h2 align="center">🤣 Here is a random joke 🤣</h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight)
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card" />
+</p>
+
+<!-- kodlarım kusursuz , ben değil -->
+<!-- kodumun hatası -->
+
+<br />
+<br />
+<p align="center">
+<img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/8b86f862f2dea44b551e2db2b16fff9a/fire.gif" />
+</p>
