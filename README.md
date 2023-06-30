@@ -17,6 +17,7 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
   </a>
 </p>
 
+
 ## 🛠️ Kullandığım Araçlar
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -25,13 +26,20 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 [![My Skills](https://skillicons.dev/icons?i=codepen,discord,figma,git,github,md,ps,stackoverflow,vscode)](https://skillicons.dev)
 
+
 ## 📈 Github İstatistikleri
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugrabasbostanci&show_icons=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=bugrabasbostanci&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&card_width=320&theme=tokyonight" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+## 🚀 Projelerim  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
@@ -39,11 +47,4 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight" />
-</a> -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=8&card_width=320" />
 </a>
