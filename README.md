@@ -39,12 +39,7 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 
 ## 🚀 Projelerim  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight" />
-</a>
+[![Medium Clone](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight)](https://github.com/bugrabasbostanci/MediumClone-bootstrap)
+[![Medium Clone](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=Javascript-Odev02&theme=tokyonight)](https://github.com/bugrabasbostanci/JavaScript-Odev02)
+[![Medium Clone](https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight)](https://github.com/deneme11122/moviebox)
+
