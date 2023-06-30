@@ -103,3 +103,8 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 <br />
 <br />
 
+![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight)
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+<img src="https://github.com/bugrabasbostanci/miim/blob/main/memes/1/1669.png" alt="Random Meme"  />
