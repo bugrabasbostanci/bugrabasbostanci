@@ -10,7 +10,7 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 
 <br />
 
-## Hakkımda
+## Yazılım Serüvenim 🧠 💪
 
 - ✅ Patika'nın [Başlangıç Seviye Frontend Web Development Patikası](https://academy.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)'nı bitirdim.
 - 🌱 Şu anda [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) kursunu takip ediyorum.
@@ -62,7 +62,7 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 <br />
 <br />
 
-<h2 align="left">📈 Github İstatistikleri</h2>
+<h2 align="left">📈 Github İstatistiklerim</h2>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=bugrabasbostanci&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabasbostanci&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -92,7 +92,7 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 </p>
 
 <!-- kodlarım kusursuz , ben değil -->
-<!-- kodumun hatası -->
+<!-- benim hatam değil, kodumun hatası -->
 
 <br />
 <br />
