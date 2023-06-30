@@ -17,18 +17,6 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
   </a>
 </p>
 
-
-## 📈 Github İstatistikleri
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=bugrabasbostanci&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&card_width=320&theme=tokyonight" />
-</a>
-
-
-
 ## 🛠️ Kullandığım Araçlar
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -37,17 +25,22 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 [![My Skills](https://skillicons.dev/icons?i=codepen,discord,figma,git,github,md,ps,stackoverflow,vscode)](https://skillicons.dev)
 
+## 📈 Github İstatistikleri
 
-## 🚀 Projelerim  
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=bugrabasbostanci&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabasbostanci&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+### 🚀 Projelerim
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight" />
 </a>
 
-
+<br />
+<br />
