@@ -44,3 +44,7 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 
 <br />
 <br />
+
+## Here is a random joke that'll make you laugh!😂
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
