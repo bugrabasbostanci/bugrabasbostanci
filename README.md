@@ -5,12 +5,11 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 <br /><br />
 
 <p align="center">
-<img src="/hello world.gif" />
+<img src="hello world.gif" />
 </p>
 
 <!-- hello world gif'inin şu projeden yararlanarak ve Tolgadan yardım alarak daha iyi, güzel, etkileyici bir halini; daha da önemlisi kendi elinle, emeğinle yaptığın bir halini kendim yapacağım! noted
 https://github.com/robertcoopercode/animated-grid-lines -->
-
 
 <br />
 
@@ -76,13 +75,13 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 
 <h3 align="left">🚀 Projelerim </h3>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/bugrabasbostanci/JavaScript-Odev02">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/bugrabasbostanci/MediumClone-bootstrap">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/deneme11122/moviebox">
 <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight" />
 </a>
 
