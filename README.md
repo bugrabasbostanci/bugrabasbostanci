@@ -1,10 +1,11 @@
-# Merhaba, Ben Buğra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
+# Merhaba, Ben Buğra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="auto">
 
 Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçirebileceğimi fark ettim. Web geliştirme, yazılım dünyasında önemli bir yere sahip olduğu için kariyerime bu alanla başladım. Temel web teknolojileri hakkında bilgi sahibiyim. Front-End alanında kendimi geliştirmek için aktif olarak çalışıyorum. Bu alanda tecrübe kazandıktan sonra kendimi Back-End alanında da geliştirip Full-Stack Developer olmayı planlıyorum.
 
 <br /><br />
+
 <p align="center">
-<img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/8b86f862f2dea44b551e2db2b16fff9a/fire.gif" />
+<img src="/fire.gif" />
 </p>
 
 <br />
