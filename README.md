@@ -8,6 +8,10 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 <img src="/hello world.gif" />
 </p>
 
+<!-- hello world gif'inin şu projeden yararlanarak ve Tolgadan yardım alarak daha iyi, güzel, etkileyici bir halini; daha da önemlisi kendi elinle, emeğinle yaptığın bir halini kendim yapacağım! noted
+https://github.com/robertcoopercode/animated-grid-lines -->
+
+
 <br />
 
 ## Yazılım Serüvenim 🧠 💪
