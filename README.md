@@ -91,10 +91,12 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 <br />
 <br />
 
-<h2 align="center">✍️ Random Dev Quote and Here is a random joke 🤣</h2>
+ 
+ | <h2 align="left"> Here is a random joke 🤣</h2> | <h2 align="left">✍️ Random Dev Quote </h2> |
+| ---------------------------------------------- | ----------------------------------------- |
+| <img src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card" /> | <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"> |
 
-<img src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card" /> | <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"> 
- --- | --- 
+
 <!-- kodlarım kusursuz , ben değil -->
 <!-- benim hatam değil, kodumun hatası -->
 
