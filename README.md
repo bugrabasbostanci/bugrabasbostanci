@@ -6,7 +6,7 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 
 - ✅ Patika'nın [Başlangıç Seviye Frontend Web Development Patikası](https://academy.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)'nı bitirdim.
 - 🌱 Şu anda [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) kursunu takip ediyorum.
-- 📚 HTML, CSS ve JavaScript kullanarak projeler geliştiriyor ve teknolojik gelişmeleri takip ederek kendimi geliştirmeye çalışıyorum.
+- 📚 HTML, CSS ve JavaScript kullanarak projeler geliştiriyor ve yenilikleri takip ederek kendimi geliştirmeye çalışıyorum.
 - 📫 Bana [email](bugrabasbostanci143@gmail.com) üzerinden ulaşabilirsiniz.
 
 ## 👩🏾‍💻 Kullandığım Diller ve Frameworkler
