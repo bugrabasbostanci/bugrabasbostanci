@@ -8,3 +8,8 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 -
 
 ## 👩🏾‍💻 Kullandığım Diller ve Frameworkler
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark" />
+  </a>
+</p>
