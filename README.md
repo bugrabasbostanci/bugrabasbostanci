@@ -5,7 +5,7 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 <br /><br />
 
 <p align="center">
-<img src="/fire.gif" />
+<img src="/hello world.gif" />
 </p>
 
 <br />
