@@ -91,9 +91,9 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 <br />
 <br />
 
- | <h2 align="left"> Here is a random joke 🤣</h2> | <h2 align="left">✍️ Random Dev Quote </h2> | <h2 align="left">🎉 Random Meme </h2> |
-| ---------------------------------------------- | ----------------------------------------- | ------------------------------------- |
-| ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight) | ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) | <img src="https://github.com/bugrabasbostanci/miim/blob/main/memes/1/1669.png" alt="Random Meme" width="300px" height="350px" /> |
+ | <h2 align="left"> Here is a random joke 🤣</h2> | <h2 align="left">✍️ Random Dev Quote </h2>|
+| ---------------------------------------------- | ----------------------------------------- |
+| ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight) | ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) | 
 
 
 
@@ -103,8 +103,4 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 <br />
 <br />
 
-![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-<img src="https://github.com/bugrabasbostanci/miim/blob/main/memes/1/1669.png" alt="Random Meme"  />
