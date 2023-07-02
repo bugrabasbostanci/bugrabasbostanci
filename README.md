@@ -5,19 +5,16 @@ Yazılım öğrenerek düşündüğüm ve hayal ettiğim şeyleri hayata geçire
 <br />
 
 <p align="center">
-<img src="hello world.gif" />
+  <img src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card" width="1200px" height="300px" />
 </p>
 
 <!-- hello world gif'inin şu projeden yararlanarak ve Tolgadan yardım alarak daha iyi, güzel, etkileyici bir halini; daha da önemlisi kendi elinle, emeğinle yaptığın bir halini kendim yapacağım! noted
 https://github.com/robertcoopercode/animated-grid-lines -->
-
-<br />
-
 ## Yazılım Serüvenim 🧠 💪
 
-- ✅ Patika'nın [Başlangıç Seviye Frontend Web Development Patikası](https://academy.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)'nı bitirdim.
 - 🌱 Şu anda [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) kursunu takip ediyorum.
 - 📚 HTML, CSS ve JavaScript kullanarak projeler geliştiriyor ve teknolojik gelişmeleri takip ederek kendimi geliştirmeye çalışıyorum.
+- - ✅ Patika'nın [Başlangıç Seviye Frontend Web Development Patikası](https://academy.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)'nı bitirdim.
 - 📫 Bana [email](bugrabasbostanci143@gmail.com) üzerinden ulaşabilirsiniz.
 
 <br />
@@ -64,10 +61,10 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 <br />
 <br />
 
-<h2 align="left">📈 Github İstatistiklerim</h2>
+<!-- <h2 align="left">📈 Github İstatistiklerim</h2>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=bugrabasbostanci&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabasbostanci&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -->
 
 <br />
 <br />
@@ -91,16 +88,22 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 <br />
 <br />
 
- | <h2 align="left"> Here is a random joke 🤣</h2> | <h2 align="left">✍️ Random Dev Quote </h2>|
+<!-- | <h2 align="left"> Here is a random joke 🤣</h2> | <h2 align="left">✍️ Random Dev Quote </h2>|
 | ---------------------------------------------- | ----------------------------------------- |
-| ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight) | ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) | 
+| <img src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card" /> | ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) | -->
+
+## ✍️ Random Dev Quote
 
 
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
+<br />
+<br />
 
+<img src="hello world.gif" />
 <!-- kodlarım kusursuz , ben değil -->
 <!-- benim hatam değil, kodumun hatası -->
 
-<br />
-<br />
 
 
