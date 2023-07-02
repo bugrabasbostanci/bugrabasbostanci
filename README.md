@@ -72,10 +72,6 @@ daha sade bir github status görseli belki ileride kullanabilirim
 
 <h2 align="center"> 🚀 Projelerim 🚀 </h2>
 
-<!-- [![Your To Do's](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight)](https://github.com/bugrabasbostanci/JavaScript-Odev02)
-[![Medium Clone](https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight)](https://github.com/bugrabasbostanci/MediumClone-bootstrap)
-[![Letterboxd Clone](https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight)](https://github.com/deneme11122/moviebox) -->
-
 <p align="center">
   <a href="https://github.com/bugrabasbostanci/JavaScript-Odev02">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
@@ -103,6 +99,8 @@ daha sade bir github status görseli belki ileride kullanabilirim
 <br />
 <br />
 
-<img src="bye-world.gif" />
+<p align="center">
+  <img src="bye-world.gif" />
+</p>
 <!-- kodlarım kusursuz , ben değilim -->
 <!-- benim hatam değil, kodumun hatası -->
