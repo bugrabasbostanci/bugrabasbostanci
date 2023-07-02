@@ -58,6 +58,10 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 <br />
 <br />
 
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=bugrabasbostanci&theme=dark&hide_border=false)<br/> 
+daha sade bir github status görseli belki ileride kullanabilirim
+-->
+
 <!-- <h2 align="left">📈 Github İstatistiklerim</h2>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=bugrabasbostanci&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugrabasbostanci&layout=compact&theme=tokyonight&hide_border=true" /></a> |
