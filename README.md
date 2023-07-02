@@ -103,6 +103,6 @@ daha sade bir github status görseli belki ileride kullanabilirim
 <br />
 <br />
 
-<img src="hello world.gif" />
+<img src="bye-world.gif" />
 <!-- kodlarım kusursuz , ben değilim -->
 <!-- benim hatam değil, kodumun hatası -->
