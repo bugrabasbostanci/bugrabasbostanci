@@ -19,7 +19,7 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 
 <h2 align="center"> 🤣 Here is a random joke 🤣 </h2>
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card" width="800px" height="200px" />
+  <img src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card" width="750px" height="150px" />
 </p>
 
 <h2 align="center">👩🏾‍💻 Kullandığım Diller ve Frameworkler 👩🏾‍💻</h2>
