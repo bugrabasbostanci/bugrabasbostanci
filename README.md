@@ -36,21 +36,27 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 
 <p align="center">
   <a href="">
-    <img src="/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt" />
   </a>
   <a href="">
-    <img src="/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
   </a>
   <a href="">
-    <img src="/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribble" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="freecodecamp" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="terminal" />
   </a>
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=codepen,discord,figma,git,github,md,ps,stackoverflow,vscode" />
   </a>
 </p>
