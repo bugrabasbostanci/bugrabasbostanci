@@ -26,7 +26,7 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
   </a>
 </p>
 
