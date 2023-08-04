@@ -25,7 +25,7 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 <h2 align="center">👩🏾‍💻 Kullandığım Diller ve Frameworkler 👩🏾‍💻</h2>
 
 <p align="center">
-  <a href="">
+  <a href=" ">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
   </a>
 </p>
@@ -56,7 +56,7 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href=" ">
     <img src="https://skillicons.dev/icons?i=codepen,discord,figma,git,github,md,ps,stackoverflow,vscode" />
   </a>
 </p>
