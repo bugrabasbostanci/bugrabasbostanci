@@ -79,10 +79,10 @@ daha sade bir github status görseli belki ileride kullanabilirim
 <h2 align="center"> 🚀 Projelerim 🚀 </h2>
 
 <p align="center">
-  <a href="https://github.com/bugrabasbostanci/JavaScript-Odev02">
+  <a href="https://github.com/bugrabasbostanci/Patika/tree/main/JavaScript-Odev02">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
 </a>
-<a href="https://github.com/bugrabasbostanci/MediumClone-bootstrap">
+<a href="https://github.com/bugrabasbostanci/Patika/tree/main/MediumClone-bootstrap">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight" />
 </a>
 <a href="https://github.com/deneme11122/moviebox">
