@@ -10,9 +10,10 @@ https://github.com/robertcoopercode/animated-grid-lines -->
 ## Yazılım Serüvenim 🧠 💪
 
 - 🌱 Şu anda [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) kursunu takip ediyorum.
-- 📚 HTML, CSS ve JavaScript kullanarak projeler geliştiriyor ve teknolojik gelişmeleri takip ederek kendimi geliştirmeye çalışıyorum.
-- ✅ Patika'nın [Başlangıç Seviye Frontend Web Development Patikası](https://academy.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)'nı bitirdim.
-- 📫 Bana [email](bugrabasbostanci143@gmail.com) üzerinden ulaşabilirsiniz.
+- 📚 HTML, CSS, Bootstrap, Tailwind ve JavaScript kullanarak projeler geliştiriyor ve teknolojik gelişmeleri takip ederek kendimi geliştirmeye çalışıyorum.
+- ✅ Patika'nın [Başlangıç Seviye Frontend Web Development Patikası](https://academy.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)'nı başarıyla tamamladım.
+- ⚡ İşte [Portfolio](https://bugrabasbostanci.vercel.app/)'m. Burada yaptığım projeleri ve yeteneklerimi sergiliyorum, göz atabilirsiniz!
+- Bana [email](mailto:bugrabasbostanci143@gmail.com) üzerinden ulaşabilirsiniz.
 
 <br />
 <br />
@@ -80,10 +81,10 @@ daha sade bir github status görseli belki ileride kullanabilirim
 
 <p align="center">
   <a href="https://github.com/bugrabasbostanci/Patika/tree/main/JavaScript-Odev02">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=JavaScript-Odev02&theme=tokyonight" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=Patika&theme=tokyonight" />
 </a>
 <a href="https://github.com/bugrabasbostanci/Patika/tree/main/MediumClone-bootstrap">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=MediumClone-bootstrap&theme=tokyonight" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bugrabasbostanci&repo=Patika&theme=tokyonight" />
 </a>
 <a href="https://github.com/deneme11122/moviebox">
 <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=deneme11122&repo=moviebox&theme=tokyonight" />
