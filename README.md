@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Buğra,
-I realized that I could bring my thoughts and dreams to life by learning software. Since web development has an important place in the software world, I started my career in this area. I'm familiar with basic web technologies. I'm actively working to develop myself in the Frontend area. After gaining experience in this area, I plan to develop myself in the Backend area and become a Fullstack Developer.
+I realized that software development could help me bring my thoughts and dreams to life. I chose web development as my career path because it is an important part of the software world. I am familiar with basic web technologies such as HTML, CSS and JavaScript. I am actively developing my Frontend skills, and I plan to transition to a Full-stack developer role by developing my Backend skills.
 
 __You can contact me via [email](mailto:bugrabasbostanci143@gmail.com) 📫__
 
