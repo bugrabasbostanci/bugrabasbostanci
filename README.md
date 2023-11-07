@@ -1,15 +1,16 @@
 # Hi there! 👋 I'm Buğra,
 I realized that software development could help me bring my thoughts and dreams to life. I chose web development as my career path because it is an important part of the software world. I am familiar with basic web technologies such as HTML, CSS and JavaScript. I am actively developing my Frontend skills, and I plan to transition to a Full-stack developer role by developing my Backend skills.
 
-__You can contact me via [email](mailto:bugrabasbostanci143@gmail.com) 📫__
+<!-- __You can contact me via [email](mailto:bugrabasbostanci143@gmail.com) 📫__ -->
 
 ## 🧰 My Toolbox 
 
 <!-- The skills, tools and technologies I use in my projects -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white")
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github,vercel,vscode,markdown,figma,)](https://skillicons.dev)
 
 <p align="center">ᓚᘏᗢ</p>
 
-<p align="center">
-<img src="https://github.com/bugrabasbostanci/Code-Notes/blob/main/Github%20Profile%20Readme%20vol1/images/rick.gif">
-</p>
+<div align="center">
+<img src="https://media.tenor.com/pzLNxNyiYpAAAAAC/rick-and-morty-rick-sanchez.gif">
+</div>
