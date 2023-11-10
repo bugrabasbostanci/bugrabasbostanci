@@ -7,7 +7,7 @@ I realized that software development could help me bring my thoughts and dreams 
 
 <!-- The skills, tools and technologies I use in my projects -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github,vercel,vscode,markdown,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github,vercel,netlify,vscode,markdown,figma,)](https://skillicons.dev)
 
 <p align="center">ᓚᘏᗢ</p>
 
