@@ -2,7 +2,7 @@
 **I believe coding is the ultimate tool to turn ideas into reality.** Focusing on **solving real-world problems through tech** with clean and modern solutions.
 
 ### 🛠️ **My Tech Stack**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,git,vercel,jest,postgresql,supabase,prisma&)](https://wwww.google.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,git,cloudflare,jest,postgresql,supabase,prisma&)](https://wwww.google.com)
 
 🌱 **Currently Learning**  
 - Next.js (App Router, Server Actions)  
